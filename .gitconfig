@@ -1,0 +1,23 @@
+[user]
+	email = taulkr@gmail.com
+	name = Tau
+[alias]
+	s = status -s
+	st = status
+	ci = commit
+	cm = commit -m
+	co = checkout
+	br = branch
+	a = add
+	d = diff
+	dc = diff --cached
+[help]
+	autocorrect = 1
+[color]
+	ui = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[push]
+	default = simple
